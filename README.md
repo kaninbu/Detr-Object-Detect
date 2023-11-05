@@ -10,25 +10,25 @@ To create the new venv, simply run the following command line in command prompyt
 
 For Windows:
 
-python3 -m venv venv
+'python3 -m venv venv
 
-venv\Scripts\activate
+venv\Scripts\activate'
 
 For Unix or MacOS:
 
-python3 -m venv venv
+'python3 -m venv venv
 
-source venv/vin/activate
+source venv/vin/activate'
 
 Do not close the command prompyt after these step, then run the following command:
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 **********************************************
 
 Before everything, ensure you have installed all necassry packages by running the following command line in command prompyt:
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 Run the program by opening the Start.bat
 
